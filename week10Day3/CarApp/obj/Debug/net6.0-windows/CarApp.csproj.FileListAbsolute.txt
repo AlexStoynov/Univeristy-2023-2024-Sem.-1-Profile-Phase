@@ -1,0 +1,16 @@
+D:\Uni 23-24\week10Day3\CarApp\bin\Debug\net6.0-windows\CarApp.exe
+D:\Uni 23-24\week10Day3\CarApp\bin\Debug\net6.0-windows\CarApp.deps.json
+D:\Uni 23-24\week10Day3\CarApp\bin\Debug\net6.0-windows\CarApp.runtimeconfig.json
+D:\Uni 23-24\week10Day3\CarApp\bin\Debug\net6.0-windows\CarApp.dll
+D:\Uni 23-24\week10Day3\CarApp\bin\Debug\net6.0-windows\CarApp.pdb
+D:\Uni 23-24\week10Day3\CarApp\obj\Debug\net6.0-windows\CarApp.Form1.resources
+D:\Uni 23-24\week10Day3\CarApp\obj\Debug\net6.0-windows\CarApp.csproj.GenerateResource.cache
+D:\Uni 23-24\week10Day3\CarApp\obj\Debug\net6.0-windows\CarApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\week10Day3\CarApp\obj\Debug\net6.0-windows\CarApp.AssemblyInfoInputs.cache
+D:\Uni 23-24\week10Day3\CarApp\obj\Debug\net6.0-windows\CarApp.AssemblyInfo.cs
+D:\Uni 23-24\week10Day3\CarApp\obj\Debug\net6.0-windows\CarApp.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\week10Day3\CarApp\obj\Debug\net6.0-windows\CarApp.dll
+D:\Uni 23-24\week10Day3\CarApp\obj\Debug\net6.0-windows\refint\CarApp.dll
+D:\Uni 23-24\week10Day3\CarApp\obj\Debug\net6.0-windows\CarApp.pdb
+D:\Uni 23-24\week10Day3\CarApp\obj\Debug\net6.0-windows\CarApp.genruntimeconfig.cache
+D:\Uni 23-24\week10Day3\CarApp\obj\Debug\net6.0-windows\ref\CarApp.dll

@@ -1,0 +1,16 @@
+D:\Uni 23-24\week10Day3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\Uni 23-24\week10Day3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\Uni 23-24\week10Day3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Uni 23-24\week10Day3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Uni 23-24\week10Day3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Uni 23-24\week10Day3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\Uni 23-24\week10Day3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Uni 23-24\week10Day3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\week10Day3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Uni 23-24\week10Day3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Uni 23-24\week10Day3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\week10Day3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Uni 23-24\week10Day3\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\Uni 23-24\week10Day3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Uni 23-24\week10Day3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Uni 23-24\week10Day3\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
