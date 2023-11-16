@@ -1,0 +1,14 @@
+D:\Uni 23-24\week10\ExtendDemo\bin\Debug\net6.0\ExtendDemo.exe
+D:\Uni 23-24\week10\ExtendDemo\bin\Debug\net6.0\ExtendDemo.deps.json
+D:\Uni 23-24\week10\ExtendDemo\bin\Debug\net6.0\ExtendDemo.runtimeconfig.json
+D:\Uni 23-24\week10\ExtendDemo\bin\Debug\net6.0\ExtendDemo.dll
+D:\Uni 23-24\week10\ExtendDemo\bin\Debug\net6.0\ExtendDemo.pdb
+D:\Uni 23-24\week10\ExtendDemo\obj\Debug\net6.0\ExtendDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\week10\ExtendDemo\obj\Debug\net6.0\ExtendDemo.AssemblyInfoInputs.cache
+D:\Uni 23-24\week10\ExtendDemo\obj\Debug\net6.0\ExtendDemo.AssemblyInfo.cs
+D:\Uni 23-24\week10\ExtendDemo\obj\Debug\net6.0\ExtendDemo.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\week10\ExtendDemo\obj\Debug\net6.0\ExtendDemo.dll
+D:\Uni 23-24\week10\ExtendDemo\obj\Debug\net6.0\refint\ExtendDemo.dll
+D:\Uni 23-24\week10\ExtendDemo\obj\Debug\net6.0\ExtendDemo.pdb
+D:\Uni 23-24\week10\ExtendDemo\obj\Debug\net6.0\ExtendDemo.genruntimeconfig.cache
+D:\Uni 23-24\week10\ExtendDemo\obj\Debug\net6.0\ref\ExtendDemo.dll

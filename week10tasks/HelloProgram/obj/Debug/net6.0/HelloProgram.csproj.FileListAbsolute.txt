@@ -1,0 +1,14 @@
+D:\Uni 23-24\week10\HelloProgram\bin\Debug\net6.0\HelloProgram.exe
+D:\Uni 23-24\week10\HelloProgram\bin\Debug\net6.0\HelloProgram.deps.json
+D:\Uni 23-24\week10\HelloProgram\bin\Debug\net6.0\HelloProgram.runtimeconfig.json
+D:\Uni 23-24\week10\HelloProgram\bin\Debug\net6.0\HelloProgram.dll
+D:\Uni 23-24\week10\HelloProgram\bin\Debug\net6.0\HelloProgram.pdb
+D:\Uni 23-24\week10\HelloProgram\obj\Debug\net6.0\HelloProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\week10\HelloProgram\obj\Debug\net6.0\HelloProgram.AssemblyInfoInputs.cache
+D:\Uni 23-24\week10\HelloProgram\obj\Debug\net6.0\HelloProgram.AssemblyInfo.cs
+D:\Uni 23-24\week10\HelloProgram\obj\Debug\net6.0\HelloProgram.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\week10\HelloProgram\obj\Debug\net6.0\HelloProgram.dll
+D:\Uni 23-24\week10\HelloProgram\obj\Debug\net6.0\refint\HelloProgram.dll
+D:\Uni 23-24\week10\HelloProgram\obj\Debug\net6.0\HelloProgram.pdb
+D:\Uni 23-24\week10\HelloProgram\obj\Debug\net6.0\HelloProgram.genruntimeconfig.cache
+D:\Uni 23-24\week10\HelloProgram\obj\Debug\net6.0\ref\HelloProgram.dll

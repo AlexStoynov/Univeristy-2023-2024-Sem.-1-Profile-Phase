@@ -1,0 +1,14 @@
+D:\Uni 23-24\week10\OddOrEven\bin\Debug\net6.0\OddOrEven.exe
+D:\Uni 23-24\week10\OddOrEven\bin\Debug\net6.0\OddOrEven.deps.json
+D:\Uni 23-24\week10\OddOrEven\bin\Debug\net6.0\OddOrEven.runtimeconfig.json
+D:\Uni 23-24\week10\OddOrEven\bin\Debug\net6.0\OddOrEven.dll
+D:\Uni 23-24\week10\OddOrEven\bin\Debug\net6.0\OddOrEven.pdb
+D:\Uni 23-24\week10\OddOrEven\obj\Debug\net6.0\OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\week10\OddOrEven\obj\Debug\net6.0\OddOrEven.AssemblyInfoInputs.cache
+D:\Uni 23-24\week10\OddOrEven\obj\Debug\net6.0\OddOrEven.AssemblyInfo.cs
+D:\Uni 23-24\week10\OddOrEven\obj\Debug\net6.0\OddOrEven.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\week10\OddOrEven\obj\Debug\net6.0\OddOrEven.dll
+D:\Uni 23-24\week10\OddOrEven\obj\Debug\net6.0\refint\OddOrEven.dll
+D:\Uni 23-24\week10\OddOrEven\obj\Debug\net6.0\OddOrEven.pdb
+D:\Uni 23-24\week10\OddOrEven\obj\Debug\net6.0\OddOrEven.genruntimeconfig.cache
+D:\Uni 23-24\week10\OddOrEven\obj\Debug\net6.0\ref\OddOrEven.dll
