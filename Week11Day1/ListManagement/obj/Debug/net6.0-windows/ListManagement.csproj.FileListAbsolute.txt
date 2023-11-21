@@ -1,0 +1,16 @@
+D:\Uni 23-24\Week11Day1\ListManagement\bin\Debug\net6.0-windows\ListManagement.exe
+D:\Uni 23-24\Week11Day1\ListManagement\bin\Debug\net6.0-windows\ListManagement.deps.json
+D:\Uni 23-24\Week11Day1\ListManagement\bin\Debug\net6.0-windows\ListManagement.runtimeconfig.json
+D:\Uni 23-24\Week11Day1\ListManagement\bin\Debug\net6.0-windows\ListManagement.dll
+D:\Uni 23-24\Week11Day1\ListManagement\bin\Debug\net6.0-windows\ListManagement.pdb
+D:\Uni 23-24\Week11Day1\ListManagement\obj\Debug\net6.0-windows\ListManagement.Form1.resources
+D:\Uni 23-24\Week11Day1\ListManagement\obj\Debug\net6.0-windows\ListManagement.csproj.GenerateResource.cache
+D:\Uni 23-24\Week11Day1\ListManagement\obj\Debug\net6.0-windows\ListManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\Week11Day1\ListManagement\obj\Debug\net6.0-windows\ListManagement.AssemblyInfoInputs.cache
+D:\Uni 23-24\Week11Day1\ListManagement\obj\Debug\net6.0-windows\ListManagement.AssemblyInfo.cs
+D:\Uni 23-24\Week11Day1\ListManagement\obj\Debug\net6.0-windows\ListManagement.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\Week11Day1\ListManagement\obj\Debug\net6.0-windows\ListManagement.dll
+D:\Uni 23-24\Week11Day1\ListManagement\obj\Debug\net6.0-windows\refint\ListManagement.dll
+D:\Uni 23-24\Week11Day1\ListManagement\obj\Debug\net6.0-windows\ListManagement.pdb
+D:\Uni 23-24\Week11Day1\ListManagement\obj\Debug\net6.0-windows\ListManagement.genruntimeconfig.cache
+D:\Uni 23-24\Week11Day1\ListManagement\obj\Debug\net6.0-windows\ref\ListManagement.dll

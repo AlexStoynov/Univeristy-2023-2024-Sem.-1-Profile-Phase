@@ -1,0 +1,16 @@
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\bin\Debug\net6.0-windows\ExtendingBankAccountTask.exe
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\bin\Debug\net6.0-windows\ExtendingBankAccountTask.deps.json
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\bin\Debug\net6.0-windows\ExtendingBankAccountTask.runtimeconfig.json
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\bin\Debug\net6.0-windows\ExtendingBankAccountTask.dll
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\bin\Debug\net6.0-windows\ExtendingBankAccountTask.pdb
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\obj\Debug\net6.0-windows\ExtendingBankAccountTask.Form1.resources
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\obj\Debug\net6.0-windows\ExtendingBankAccountTask.csproj.GenerateResource.cache
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\obj\Debug\net6.0-windows\ExtendingBankAccountTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\obj\Debug\net6.0-windows\ExtendingBankAccountTask.AssemblyInfoInputs.cache
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\obj\Debug\net6.0-windows\ExtendingBankAccountTask.AssemblyInfo.cs
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\obj\Debug\net6.0-windows\ExtendingBankAccountTask.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\obj\Debug\net6.0-windows\ExtendingBankAccountTask.dll
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\obj\Debug\net6.0-windows\refint\ExtendingBankAccountTask.dll
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\obj\Debug\net6.0-windows\ExtendingBankAccountTask.pdb
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\obj\Debug\net6.0-windows\ExtendingBankAccountTask.genruntimeconfig.cache
+D:\Uni 23-24\Week11Day1\ExtendingBankAccountTask\obj\Debug\net6.0-windows\ref\ExtendingBankAccountTask.dll

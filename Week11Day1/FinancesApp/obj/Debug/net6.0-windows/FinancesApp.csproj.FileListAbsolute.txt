@@ -1,0 +1,16 @@
+D:\Uni 23-24\Week11Day1\FinancesApp\bin\Debug\net6.0-windows\FinancesApp.exe
+D:\Uni 23-24\Week11Day1\FinancesApp\bin\Debug\net6.0-windows\FinancesApp.deps.json
+D:\Uni 23-24\Week11Day1\FinancesApp\bin\Debug\net6.0-windows\FinancesApp.runtimeconfig.json
+D:\Uni 23-24\Week11Day1\FinancesApp\bin\Debug\net6.0-windows\FinancesApp.dll
+D:\Uni 23-24\Week11Day1\FinancesApp\bin\Debug\net6.0-windows\FinancesApp.pdb
+D:\Uni 23-24\Week11Day1\FinancesApp\obj\Debug\net6.0-windows\FinancesApp.Form1.resources
+D:\Uni 23-24\Week11Day1\FinancesApp\obj\Debug\net6.0-windows\FinancesApp.csproj.GenerateResource.cache
+D:\Uni 23-24\Week11Day1\FinancesApp\obj\Debug\net6.0-windows\FinancesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\Week11Day1\FinancesApp\obj\Debug\net6.0-windows\FinancesApp.AssemblyInfoInputs.cache
+D:\Uni 23-24\Week11Day1\FinancesApp\obj\Debug\net6.0-windows\FinancesApp.AssemblyInfo.cs
+D:\Uni 23-24\Week11Day1\FinancesApp\obj\Debug\net6.0-windows\FinancesApp.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\Week11Day1\FinancesApp\obj\Debug\net6.0-windows\FinancesApp.dll
+D:\Uni 23-24\Week11Day1\FinancesApp\obj\Debug\net6.0-windows\refint\FinancesApp.dll
+D:\Uni 23-24\Week11Day1\FinancesApp\obj\Debug\net6.0-windows\FinancesApp.pdb
+D:\Uni 23-24\Week11Day1\FinancesApp\obj\Debug\net6.0-windows\FinancesApp.genruntimeconfig.cache
+D:\Uni 23-24\Week11Day1\FinancesApp\obj\Debug\net6.0-windows\ref\FinancesApp.dll

@@ -1,0 +1,16 @@
+D:\Uni 23-24\Week11Day1\Over18\bin\Debug\net6.0-windows\Over18.exe
+D:\Uni 23-24\Week11Day1\Over18\bin\Debug\net6.0-windows\Over18.deps.json
+D:\Uni 23-24\Week11Day1\Over18\bin\Debug\net6.0-windows\Over18.runtimeconfig.json
+D:\Uni 23-24\Week11Day1\Over18\bin\Debug\net6.0-windows\Over18.dll
+D:\Uni 23-24\Week11Day1\Over18\bin\Debug\net6.0-windows\Over18.pdb
+D:\Uni 23-24\Week11Day1\Over18\obj\Debug\net6.0-windows\Over18.Form1.resources
+D:\Uni 23-24\Week11Day1\Over18\obj\Debug\net6.0-windows\Over18.csproj.GenerateResource.cache
+D:\Uni 23-24\Week11Day1\Over18\obj\Debug\net6.0-windows\Over18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\Week11Day1\Over18\obj\Debug\net6.0-windows\Over18.AssemblyInfoInputs.cache
+D:\Uni 23-24\Week11Day1\Over18\obj\Debug\net6.0-windows\Over18.AssemblyInfo.cs
+D:\Uni 23-24\Week11Day1\Over18\obj\Debug\net6.0-windows\Over18.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\Week11Day1\Over18\obj\Debug\net6.0-windows\Over18.dll
+D:\Uni 23-24\Week11Day1\Over18\obj\Debug\net6.0-windows\refint\Over18.dll
+D:\Uni 23-24\Week11Day1\Over18\obj\Debug\net6.0-windows\Over18.pdb
+D:\Uni 23-24\Week11Day1\Over18\obj\Debug\net6.0-windows\Over18.genruntimeconfig.cache
+D:\Uni 23-24\Week11Day1\Over18\obj\Debug\net6.0-windows\ref\Over18.dll
