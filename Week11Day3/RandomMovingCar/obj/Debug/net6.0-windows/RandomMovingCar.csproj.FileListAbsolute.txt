@@ -1,0 +1,17 @@
+D:\Uni 23-24\Week11Day3\RandomMovingCar\bin\Debug\net6.0-windows\RandomMovingCar.exe
+D:\Uni 23-24\Week11Day3\RandomMovingCar\bin\Debug\net6.0-windows\RandomMovingCar.deps.json
+D:\Uni 23-24\Week11Day3\RandomMovingCar\bin\Debug\net6.0-windows\RandomMovingCar.runtimeconfig.json
+D:\Uni 23-24\Week11Day3\RandomMovingCar\bin\Debug\net6.0-windows\RandomMovingCar.dll
+D:\Uni 23-24\Week11Day3\RandomMovingCar\bin\Debug\net6.0-windows\RandomMovingCar.pdb
+D:\Uni 23-24\Week11Day3\RandomMovingCar\obj\Debug\net6.0-windows\RandomMovingCar.Form1.resources
+D:\Uni 23-24\Week11Day3\RandomMovingCar\obj\Debug\net6.0-windows\RandomMovingCar.csproj.GenerateResource.cache
+D:\Uni 23-24\Week11Day3\RandomMovingCar\obj\Debug\net6.0-windows\RandomMovingCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\Week11Day3\RandomMovingCar\obj\Debug\net6.0-windows\RandomMovingCar.AssemblyInfoInputs.cache
+D:\Uni 23-24\Week11Day3\RandomMovingCar\obj\Debug\net6.0-windows\RandomMovingCar.AssemblyInfo.cs
+D:\Uni 23-24\Week11Day3\RandomMovingCar\obj\Debug\net6.0-windows\RandomMovingCar.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\Week11Day3\RandomMovingCar\obj\Debug\net6.0-windows\RandomMovingCar.dll
+D:\Uni 23-24\Week11Day3\RandomMovingCar\obj\Debug\net6.0-windows\refint\RandomMovingCar.dll
+D:\Uni 23-24\Week11Day3\RandomMovingCar\obj\Debug\net6.0-windows\RandomMovingCar.pdb
+D:\Uni 23-24\Week11Day3\RandomMovingCar\obj\Debug\net6.0-windows\RandomMovingCar.genruntimeconfig.cache
+D:\Uni 23-24\Week11Day3\RandomMovingCar\obj\Debug\net6.0-windows\ref\RandomMovingCar.dll
+D:\Uni 23-24\Week11Day3\RandomMovingCar\obj\Debug\net6.0-windows\RandomMovingCar.Properties.Resources.resources
