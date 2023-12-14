@@ -1,0 +1,16 @@
+D:\Uni 23-24\Week12Day1\SeasonApp\bin\Debug\net6.0-windows\SeasonApp.exe
+D:\Uni 23-24\Week12Day1\SeasonApp\bin\Debug\net6.0-windows\SeasonApp.deps.json
+D:\Uni 23-24\Week12Day1\SeasonApp\bin\Debug\net6.0-windows\SeasonApp.runtimeconfig.json
+D:\Uni 23-24\Week12Day1\SeasonApp\bin\Debug\net6.0-windows\SeasonApp.dll
+D:\Uni 23-24\Week12Day1\SeasonApp\bin\Debug\net6.0-windows\SeasonApp.pdb
+D:\Uni 23-24\Week12Day1\SeasonApp\obj\Debug\net6.0-windows\SeasonApp.Form1.resources
+D:\Uni 23-24\Week12Day1\SeasonApp\obj\Debug\net6.0-windows\SeasonApp.csproj.GenerateResource.cache
+D:\Uni 23-24\Week12Day1\SeasonApp\obj\Debug\net6.0-windows\SeasonApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\Week12Day1\SeasonApp\obj\Debug\net6.0-windows\SeasonApp.AssemblyInfoInputs.cache
+D:\Uni 23-24\Week12Day1\SeasonApp\obj\Debug\net6.0-windows\SeasonApp.AssemblyInfo.cs
+D:\Uni 23-24\Week12Day1\SeasonApp\obj\Debug\net6.0-windows\SeasonApp.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\Week12Day1\SeasonApp\obj\Debug\net6.0-windows\SeasonApp.dll
+D:\Uni 23-24\Week12Day1\SeasonApp\obj\Debug\net6.0-windows\refint\SeasonApp.dll
+D:\Uni 23-24\Week12Day1\SeasonApp\obj\Debug\net6.0-windows\SeasonApp.pdb
+D:\Uni 23-24\Week12Day1\SeasonApp\obj\Debug\net6.0-windows\SeasonApp.genruntimeconfig.cache
+D:\Uni 23-24\Week12Day1\SeasonApp\obj\Debug\net6.0-windows\ref\SeasonApp.dll

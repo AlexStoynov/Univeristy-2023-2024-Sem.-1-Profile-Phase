@@ -1,0 +1,16 @@
+D:\Uni 23-24\Week12Day1\PizzaToppings\bin\Debug\net6.0-windows\PizzaToppings.exe
+D:\Uni 23-24\Week12Day1\PizzaToppings\bin\Debug\net6.0-windows\PizzaToppings.deps.json
+D:\Uni 23-24\Week12Day1\PizzaToppings\bin\Debug\net6.0-windows\PizzaToppings.runtimeconfig.json
+D:\Uni 23-24\Week12Day1\PizzaToppings\bin\Debug\net6.0-windows\PizzaToppings.dll
+D:\Uni 23-24\Week12Day1\PizzaToppings\bin\Debug\net6.0-windows\PizzaToppings.pdb
+D:\Uni 23-24\Week12Day1\PizzaToppings\obj\Debug\net6.0-windows\PizzaToppings.Form1.resources
+D:\Uni 23-24\Week12Day1\PizzaToppings\obj\Debug\net6.0-windows\PizzaToppings.csproj.GenerateResource.cache
+D:\Uni 23-24\Week12Day1\PizzaToppings\obj\Debug\net6.0-windows\PizzaToppings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\Week12Day1\PizzaToppings\obj\Debug\net6.0-windows\PizzaToppings.AssemblyInfoInputs.cache
+D:\Uni 23-24\Week12Day1\PizzaToppings\obj\Debug\net6.0-windows\PizzaToppings.AssemblyInfo.cs
+D:\Uni 23-24\Week12Day1\PizzaToppings\obj\Debug\net6.0-windows\PizzaToppings.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\Week12Day1\PizzaToppings\obj\Debug\net6.0-windows\PizzaToppings.dll
+D:\Uni 23-24\Week12Day1\PizzaToppings\obj\Debug\net6.0-windows\refint\PizzaToppings.dll
+D:\Uni 23-24\Week12Day1\PizzaToppings\obj\Debug\net6.0-windows\PizzaToppings.pdb
+D:\Uni 23-24\Week12Day1\PizzaToppings\obj\Debug\net6.0-windows\PizzaToppings.genruntimeconfig.cache
+D:\Uni 23-24\Week12Day1\PizzaToppings\obj\Debug\net6.0-windows\ref\PizzaToppings.dll

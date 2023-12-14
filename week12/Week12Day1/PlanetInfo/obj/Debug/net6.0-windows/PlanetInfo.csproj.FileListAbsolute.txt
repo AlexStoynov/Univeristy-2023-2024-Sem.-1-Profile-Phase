@@ -1,0 +1,16 @@
+D:\Uni 23-24\Week12Day1\PlanetInfo\bin\Debug\net6.0-windows\PlanetInfo.exe
+D:\Uni 23-24\Week12Day1\PlanetInfo\bin\Debug\net6.0-windows\PlanetInfo.deps.json
+D:\Uni 23-24\Week12Day1\PlanetInfo\bin\Debug\net6.0-windows\PlanetInfo.runtimeconfig.json
+D:\Uni 23-24\Week12Day1\PlanetInfo\bin\Debug\net6.0-windows\PlanetInfo.dll
+D:\Uni 23-24\Week12Day1\PlanetInfo\bin\Debug\net6.0-windows\PlanetInfo.pdb
+D:\Uni 23-24\Week12Day1\PlanetInfo\obj\Debug\net6.0-windows\PlanetInfo.Form1.resources
+D:\Uni 23-24\Week12Day1\PlanetInfo\obj\Debug\net6.0-windows\PlanetInfo.csproj.GenerateResource.cache
+D:\Uni 23-24\Week12Day1\PlanetInfo\obj\Debug\net6.0-windows\PlanetInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\Week12Day1\PlanetInfo\obj\Debug\net6.0-windows\PlanetInfo.AssemblyInfoInputs.cache
+D:\Uni 23-24\Week12Day1\PlanetInfo\obj\Debug\net6.0-windows\PlanetInfo.AssemblyInfo.cs
+D:\Uni 23-24\Week12Day1\PlanetInfo\obj\Debug\net6.0-windows\PlanetInfo.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\Week12Day1\PlanetInfo\obj\Debug\net6.0-windows\PlanetInfo.dll
+D:\Uni 23-24\Week12Day1\PlanetInfo\obj\Debug\net6.0-windows\refint\PlanetInfo.dll
+D:\Uni 23-24\Week12Day1\PlanetInfo\obj\Debug\net6.0-windows\PlanetInfo.pdb
+D:\Uni 23-24\Week12Day1\PlanetInfo\obj\Debug\net6.0-windows\PlanetInfo.genruntimeconfig.cache
+D:\Uni 23-24\Week12Day1\PlanetInfo\obj\Debug\net6.0-windows\ref\PlanetInfo.dll

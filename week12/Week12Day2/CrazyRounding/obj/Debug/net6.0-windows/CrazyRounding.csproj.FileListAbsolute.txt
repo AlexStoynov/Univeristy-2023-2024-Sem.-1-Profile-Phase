@@ -1,0 +1,16 @@
+D:\Uni 23-24\Week12Day2\CrazyRounding\bin\Debug\net6.0-windows\CrazyRounding.exe
+D:\Uni 23-24\Week12Day2\CrazyRounding\bin\Debug\net6.0-windows\CrazyRounding.deps.json
+D:\Uni 23-24\Week12Day2\CrazyRounding\bin\Debug\net6.0-windows\CrazyRounding.runtimeconfig.json
+D:\Uni 23-24\Week12Day2\CrazyRounding\bin\Debug\net6.0-windows\CrazyRounding.dll
+D:\Uni 23-24\Week12Day2\CrazyRounding\bin\Debug\net6.0-windows\CrazyRounding.pdb
+D:\Uni 23-24\Week12Day2\CrazyRounding\obj\Debug\net6.0-windows\CrazyRounding.Form1.resources
+D:\Uni 23-24\Week12Day2\CrazyRounding\obj\Debug\net6.0-windows\CrazyRounding.csproj.GenerateResource.cache
+D:\Uni 23-24\Week12Day2\CrazyRounding\obj\Debug\net6.0-windows\CrazyRounding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\Week12Day2\CrazyRounding\obj\Debug\net6.0-windows\CrazyRounding.AssemblyInfoInputs.cache
+D:\Uni 23-24\Week12Day2\CrazyRounding\obj\Debug\net6.0-windows\CrazyRounding.AssemblyInfo.cs
+D:\Uni 23-24\Week12Day2\CrazyRounding\obj\Debug\net6.0-windows\CrazyRounding.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\Week12Day2\CrazyRounding\obj\Debug\net6.0-windows\CrazyRounding.dll
+D:\Uni 23-24\Week12Day2\CrazyRounding\obj\Debug\net6.0-windows\refint\CrazyRounding.dll
+D:\Uni 23-24\Week12Day2\CrazyRounding\obj\Debug\net6.0-windows\CrazyRounding.pdb
+D:\Uni 23-24\Week12Day2\CrazyRounding\obj\Debug\net6.0-windows\CrazyRounding.genruntimeconfig.cache
+D:\Uni 23-24\Week12Day2\CrazyRounding\obj\Debug\net6.0-windows\ref\CrazyRounding.dll

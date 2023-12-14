@@ -1,0 +1,17 @@
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\bin\Debug\net6.0-windows\BikeTrip.exe
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\bin\Debug\net6.0-windows\BikeTrip.deps.json
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\bin\Debug\net6.0-windows\BikeTrip.runtimeconfig.json
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\bin\Debug\net6.0-windows\BikeTrip.dll
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\bin\Debug\net6.0-windows\BikeTrip.pdb
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\obj\Debug\net6.0-windows\BikeTrip.Form1.resources
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\obj\Debug\net6.0-windows\BikeTrip.csproj.GenerateResource.cache
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\obj\Debug\net6.0-windows\BikeTrip.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\obj\Debug\net6.0-windows\BikeTrip.AssemblyInfoInputs.cache
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\obj\Debug\net6.0-windows\BikeTrip.AssemblyInfo.cs
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\obj\Debug\net6.0-windows\BikeTrip.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\obj\Debug\net6.0-windows\BikeTrip.dll
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\obj\Debug\net6.0-windows\refint\BikeTrip.dll
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\obj\Debug\net6.0-windows\BikeTrip.pdb
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\obj\Debug\net6.0-windows\BikeTrip.genruntimeconfig.cache
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\obj\Debug\net6.0-windows\ref\BikeTrip.dll
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day2\BikeTrip\obj\Debug\net6.0-windows\BikeTrip.InfoForm.resources

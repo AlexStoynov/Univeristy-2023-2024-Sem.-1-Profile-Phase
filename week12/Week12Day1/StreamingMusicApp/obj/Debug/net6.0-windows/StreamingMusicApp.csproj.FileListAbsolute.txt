@@ -1,0 +1,16 @@
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\bin\Debug\net6.0-windows\StreamingMusicApp.exe
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\bin\Debug\net6.0-windows\StreamingMusicApp.deps.json
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\bin\Debug\net6.0-windows\StreamingMusicApp.runtimeconfig.json
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\bin\Debug\net6.0-windows\StreamingMusicApp.dll
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\bin\Debug\net6.0-windows\StreamingMusicApp.pdb
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\obj\Debug\net6.0-windows\StreamingMusicApp.Form1.resources
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\obj\Debug\net6.0-windows\StreamingMusicApp.csproj.GenerateResource.cache
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\obj\Debug\net6.0-windows\StreamingMusicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\obj\Debug\net6.0-windows\StreamingMusicApp.AssemblyInfoInputs.cache
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\obj\Debug\net6.0-windows\StreamingMusicApp.AssemblyInfo.cs
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\obj\Debug\net6.0-windows\StreamingMusicApp.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\obj\Debug\net6.0-windows\StreamingMusicApp.dll
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\obj\Debug\net6.0-windows\refint\StreamingMusicApp.dll
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\obj\Debug\net6.0-windows\StreamingMusicApp.pdb
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\obj\Debug\net6.0-windows\StreamingMusicApp.genruntimeconfig.cache
+D:\Uni 23-24\profilePhaseSem1\week12\Week12Day1\StreamingMusicApp\obj\Debug\net6.0-windows\ref\StreamingMusicApp.dll
