@@ -1,0 +1,17 @@
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\obj\Debug\net6.0-windows\Bakery.AddForm.resources
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\obj\Debug\net6.0-windows\Bakery.MainForm.resources
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\obj\Debug\net6.0-windows\Bakery.csproj.GenerateResource.cache
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\obj\Debug\net6.0-windows\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\obj\Debug\net6.0-windows\Bakery.AssemblyInfoInputs.cache
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\obj\Debug\net6.0-windows\Bakery.AssemblyInfo.cs
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\obj\Debug\net6.0-windows\Bakery.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\bin\Debug\net6.0-windows\Bakery.exe
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\bin\Debug\net6.0-windows\Bakery.deps.json
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\bin\Debug\net6.0-windows\Bakery.runtimeconfig.json
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\bin\Debug\net6.0-windows\Bakery.dll
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\bin\Debug\net6.0-windows\Bakery.pdb
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\obj\Debug\net6.0-windows\Bakery.dll
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\obj\Debug\net6.0-windows\refint\Bakery.dll
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\obj\Debug\net6.0-windows\Bakery.pdb
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\obj\Debug\net6.0-windows\Bakery.genruntimeconfig.cache
+D:\Uni 23-24\profilePhaseSem1\week13\Week13Day3\Bakery\obj\Debug\net6.0-windows\ref\Bakery.dll

@@ -1,0 +1,16 @@
+D:\Uni 23-24\Week13Day3\DocumentApp\bin\Debug\net6.0-windows\DocumentApp.exe
+D:\Uni 23-24\Week13Day3\DocumentApp\bin\Debug\net6.0-windows\DocumentApp.deps.json
+D:\Uni 23-24\Week13Day3\DocumentApp\bin\Debug\net6.0-windows\DocumentApp.runtimeconfig.json
+D:\Uni 23-24\Week13Day3\DocumentApp\bin\Debug\net6.0-windows\DocumentApp.dll
+D:\Uni 23-24\Week13Day3\DocumentApp\bin\Debug\net6.0-windows\DocumentApp.pdb
+D:\Uni 23-24\Week13Day3\DocumentApp\obj\Debug\net6.0-windows\DocumentApp.Form1.resources
+D:\Uni 23-24\Week13Day3\DocumentApp\obj\Debug\net6.0-windows\DocumentApp.csproj.GenerateResource.cache
+D:\Uni 23-24\Week13Day3\DocumentApp\obj\Debug\net6.0-windows\DocumentApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni 23-24\Week13Day3\DocumentApp\obj\Debug\net6.0-windows\DocumentApp.AssemblyInfoInputs.cache
+D:\Uni 23-24\Week13Day3\DocumentApp\obj\Debug\net6.0-windows\DocumentApp.AssemblyInfo.cs
+D:\Uni 23-24\Week13Day3\DocumentApp\obj\Debug\net6.0-windows\DocumentApp.csproj.CoreCompileInputs.cache
+D:\Uni 23-24\Week13Day3\DocumentApp\obj\Debug\net6.0-windows\DocumentApp.dll
+D:\Uni 23-24\Week13Day3\DocumentApp\obj\Debug\net6.0-windows\refint\DocumentApp.dll
+D:\Uni 23-24\Week13Day3\DocumentApp\obj\Debug\net6.0-windows\DocumentApp.pdb
+D:\Uni 23-24\Week13Day3\DocumentApp\obj\Debug\net6.0-windows\DocumentApp.genruntimeconfig.cache
+D:\Uni 23-24\Week13Day3\DocumentApp\obj\Debug\net6.0-windows\ref\DocumentApp.dll
